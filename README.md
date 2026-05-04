@@ -259,46 +259,4 @@ This project represents more than a clock.
 It represents the process of learning how complex systems are built — one layer at a time.
 
 
-# 📸 Project Visuals
 
-## 🏠 System Output (7-Segment Clock UI)
-
-<p align="center">
-  <img src="assets/1.png" width="500"/>
-  <img src="assets/2.png" width="500"/>
-  <img src="assets/3.png" width="500"/>
-</p>
-
----
-
-## ⚙️ Simulink Model Architecture
-
-<p align="center">
-  
-  <img src="assets/4.png" width="500"/>
-  <img src="assets/11.png" width="500"/>
-</p>
-
----
-
-## 🔢 Digital Logic / Counter Design
-
-<p align="center">
-  <img src="assets/5.png" width="500"/>
-  <img src="assets/6.png" width="500"/>
-  <img src="assets/7.png" width="500"/>
-  <img src="assets/8.png" width="500"/>
-  <img src="assets/9.png" width="500"/>
-  <img src="assets/10.png" width="500"/>
-</p>
-
----
-
-
-## 🎨 Final Streamlit Rendering Engine
-
-<p align="center">
-<img src="assets/2.png" width="500"/>
-  
-  
-</p>
