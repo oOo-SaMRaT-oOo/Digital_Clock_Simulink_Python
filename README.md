@@ -298,7 +298,7 @@ It represents the process of learning how complex systems are built — one laye
 ## 🎨 Final Streamlit Rendering Engine
 
 <p align="center">
-<img src="assets/3.png" width="500"/>
+<img src="assets/2.png" width="500"/>
   
   
 </p>
